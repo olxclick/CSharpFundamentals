@@ -1,0 +1,14 @@
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\bin\Debug\net6.0\miau.exe
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\bin\Debug\net6.0\miau.deps.json
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\bin\Debug\net6.0\miau.runtimeconfig.json
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\bin\Debug\net6.0\miau.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\bin\Debug\net6.0\miau.pdb
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.AssemblyInfoInputs.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.AssemblyInfo.cs
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.csproj.CoreCompileInputs.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\refint\miau.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.pdb
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\miau.genruntimeconfig.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\miau\obj\Debug\net6.0\ref\miau.dll

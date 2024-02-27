@@ -1,0 +1,28 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\bin\Debug\net8.0\readFile.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\bin\Debug\net8.0\readFile.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\bin\Debug\net8.0\readFile.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\bin\Debug\net8.0\readFile.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\bin\Debug\net8.0\readFile.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\refint\readFile.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\readFile.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\readFile\obj\Debug\net8.0\ref\readFile.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\bin\Debug\net8.0\readFile.exe
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\bin\Debug\net8.0\readFile.deps.json
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\bin\Debug\net8.0\readFile.runtimeconfig.json
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\bin\Debug\net8.0\readFile.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\bin\Debug\net8.0\readFile.pdb
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.AssemblyInfoInputs.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.AssemblyInfo.cs
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.csproj.CoreCompileInputs.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\refint\readFile.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.pdb
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\readFile.genruntimeconfig.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\readFile\obj\Debug\net8.0\ref\readFile.dll

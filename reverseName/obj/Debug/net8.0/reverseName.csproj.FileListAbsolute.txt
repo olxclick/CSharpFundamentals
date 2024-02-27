@@ -1,0 +1,14 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\bin\Debug\net8.0\reverseName.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\bin\Debug\net8.0\reverseName.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\bin\Debug\net8.0\reverseName.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\bin\Debug\net8.0\reverseName.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\bin\Debug\net8.0\reverseName.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\refint\reverseName.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\reverseName.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\reverseName\obj\Debug\net8.0\ref\reverseName.dll

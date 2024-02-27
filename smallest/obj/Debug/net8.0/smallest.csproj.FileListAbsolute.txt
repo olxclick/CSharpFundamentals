@@ -1,0 +1,14 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\bin\Debug\net8.0\smallest.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\bin\Debug\net8.0\smallest.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\bin\Debug\net8.0\smallest.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\bin\Debug\net8.0\smallest.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\bin\Debug\net8.0\smallest.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\refint\smallest.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\smallest.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\smallest\obj\Debug\net8.0\ref\smallest.dll

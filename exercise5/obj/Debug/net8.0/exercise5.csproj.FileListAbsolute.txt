@@ -1,0 +1,14 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\bin\Debug\net8.0\exercise5.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\bin\Debug\net8.0\exercise5.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\bin\Debug\net8.0\exercise5.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\bin\Debug\net8.0\exercise5.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\bin\Debug\net8.0\exercise5.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\refint\exercise5.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\exercise5.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\exercise5\obj\Debug\net8.0\ref\exercise5.dll

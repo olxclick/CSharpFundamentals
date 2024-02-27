@@ -1,0 +1,28 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\bin\Debug\net8.0\checkTime.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\bin\Debug\net8.0\checkTime.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\bin\Debug\net8.0\checkTime.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\bin\Debug\net8.0\checkTime.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\bin\Debug\net8.0\checkTime.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\refint\checkTime.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\checkTime.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\checkTime\obj\Debug\net8.0\ref\checkTime.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\bin\Debug\net8.0\checkTime.exe
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\bin\Debug\net8.0\checkTime.deps.json
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\bin\Debug\net8.0\checkTime.runtimeconfig.json
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\bin\Debug\net8.0\checkTime.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\bin\Debug\net8.0\checkTime.pdb
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.AssemblyInfoInputs.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.AssemblyInfo.cs
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.csproj.CoreCompileInputs.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\refint\checkTime.dll
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.pdb
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\checkTime.genruntimeconfig.cache
+c:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\CSharpFundamentals\checkTime\obj\Debug\net8.0\ref\checkTime.dll

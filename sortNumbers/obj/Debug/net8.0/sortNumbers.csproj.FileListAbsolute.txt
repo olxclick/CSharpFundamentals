@@ -1,0 +1,14 @@
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\bin\Debug\net8.0\sortNumbers.exe
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\bin\Debug\net8.0\sortNumbers.deps.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\bin\Debug\net8.0\sortNumbers.runtimeconfig.json
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\bin\Debug\net8.0\sortNumbers.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\bin\Debug\net8.0\sortNumbers.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.AssemblyInfoInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.AssemblyInfo.cs
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\refint\sortNumbers.dll
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.pdb
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\sortNumbers.genruntimeconfig.cache
+C:\Users\jpedrola\OneDrive - NTT DATA EMEAL\Desktop\c# exercises\sortNumbers\obj\Debug\net8.0\ref\sortNumbers.dll
